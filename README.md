@@ -1,2 +1,2 @@
 # Port-Scanner
-This is an simapl exampal of port scanner you can use it for scanning open ports also this is for educational purpus only
+This is a simple example of a port scanner that you can use to scan open ports. Please note that this script is for educational purposes only. I do not take any responsibility for how you use this script.
