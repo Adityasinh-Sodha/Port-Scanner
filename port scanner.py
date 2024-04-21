@@ -65,3 +65,4 @@ if __name__ == "__main__":
         file.write(f"Open Ports: {' '.join(map(str, open_ports))}\n")
 
     print(f"Open ports information written to '{OUTPUT_FILE}'")
+# created and edited by Aditya Sodha.
