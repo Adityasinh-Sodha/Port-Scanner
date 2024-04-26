@@ -16,7 +16,7 @@ apt install git
 apt install python3
 git clone https://github.com/AdityaSodha/Port-Scanner
 cd port-Scanner
-python3 Portscanner.py
+python3 PortScanner.py
 ```
 ## For Termux
 ```bash
@@ -26,7 +26,7 @@ pkg install git
 pkg install python3
 git clone https://github.com/AdityaSodha/Port-Scanner
 cd Port-Scnner
-python3 Portscanner.py
+python3 PortScanner.py
 ```
  In this script enter the number of the port where you want to start the scan and hit enter. Again, enter the last port number that you want to stop scanning
  ## License
