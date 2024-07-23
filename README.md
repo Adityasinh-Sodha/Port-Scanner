@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/2fe6449a-1425-4b70-b9d1-cecdaea85435)
 # Port-Scanner
 This is a simple python script example for a port scanning that you can use to scan open ports.
 Please note that this script is for educational purposes only.  
