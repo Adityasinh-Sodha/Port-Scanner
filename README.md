@@ -15,7 +15,7 @@ apt update
 apt upgrade
 apt install git
 apt install python3
-git clone https://github.com/AdityaSodha/Port-Scanner
+git clone https://github.com/Adityasinh-Sodha/Port-Scanner
 cd port-Scanner
 python3 PortScanner.py
 ```
@@ -25,7 +25,7 @@ apt update
 apt upgrade
 pkg install git
 pkg install python3
-git clone https://github.com/AdityaSodha/Port-Scanner
+git clone https://github.com/Adityasinh-Sodha/Port-Scanner
 cd Port-Scnner
 python3 PortScanner.py
 ```
