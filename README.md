@@ -31,5 +31,5 @@ python3 PortScanner.py
  In this script enter the number of the port where you want to start the scan and hit enter. Again, enter the last port number that you want to stop scanning
  ## License
  Distributed under the MIT License. See 'LICENSE' for more information.
- ## Contact
- Email adityasodha@yahoo.com or work.adityasodha@gmail.com
+ ## Author
+Developed by **Adityasinh**.
